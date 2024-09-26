@@ -1,7 +1,7 @@
 export const appInfo = {
-    appName: "SuperTokens Next.js demo app",
-    apiDomain: "http://localhost:3000",
-    websiteDomain: "http://localhost:3000",
-    apiBasePath: "/api/auth",
-    websiteBasePath: "/auth",
+  appName: 'SuperTokens Next.js demo app',
+  apiDomain: 'http://test-auth-fawn.vercel.app',
+  websiteDomain: 'http://test-auth-fawn.vercel.app',
+  apiBasePath: '/api/auth',
+  websiteBasePath: '/auth',
 };
